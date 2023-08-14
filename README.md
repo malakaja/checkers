@@ -1,1 +1,2 @@
 # checkers
+# cosmo-checkers
